@@ -71,4 +71,16 @@ SECTION 11. CHANGES TO THIS PRIVACY POLICY
 
 We may update our Privacy Policy from time to time without notice. You can check the repository for the latest version of the Privacy Policy. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-are you even here?
+SECTION 12. AI SERVICES
+
+We use providers to use AI service, so Privacy Policy of providers applies.
+Providers we uses:
+
+- OpenRouter
+- Together AI
+
+We opt out training via API requests, none of your data is being trained.
+
+STM(Short term memory) is per-user chat memory, which is very high volatile and stored in variable, not in any external storage. STM automatically clears after 30 minutes of inactivity, or anytime via command.
+
+LTM(Long term memory) - We do not have plan to code this, as this is much more complicated and costly.
