@@ -79,8 +79,11 @@ Providers we uses:
 - OpenRouter
 - Together AI
 
-We opt out training via API requests, none of your data is being trained.
+TL:DR : You are not product.
 
-STM(Short term memory) is per-user chat memory, which is very high volatile and stored in variable, not in any external storage. STM automatically clears after 30 minutes of inactivity, or anytime via command.
+We opt out training via API requests, none of your data is being trained.
+We don't store any of your chat data in any permanent storage, nor view any of your message externally.
+
+STM(Short term memory) is per-user chat memory, which is very high volatile and stored in variable, not in any external storage. STM automatically clears after 30 minutes of inactivity, or anytime via command. STM in Direct message is isolated between all-server STM.
 
 LTM(Long term memory) - We do not have plan to code this, as this is much more complicated and costly.
