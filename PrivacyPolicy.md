@@ -74,10 +74,14 @@ We may update our Privacy Policy from time to time without notice. You can check
 SECTION 12. AI SERVICES
 
 We use providers to use AI service, so Privacy Policy of providers applies.
-Providers we uses:
+We use OpenRouter to automatically select best providers.
+This is possible providers but not limited to:
 
-- OpenRouter
-- Together AI
+- OpenAI (GPT)
+- Google AI Studio / Google Vertex (Gemini)
+- xAI (Grok)
+- Anthropic (Claude)
+- Deepinfra (LLaMA,Deepseek, Etc.)
 
 TL:DR : You are not product.
 
