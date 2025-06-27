@@ -79,9 +79,17 @@ This is possible providers but not limited to:
 
 - OpenAI (GPT)
 - Google AI Studio / Google Vertex (Gemini)
-- xAI (Grok)
 - Anthropic (Claude)
+- Cohere (Command R)
+- Amazone (Amazone Nova)
 - Deepinfra (LLaMA,Deepseek, Etc.)
+
+Most of these providers have their own privacy policies, and we do not control how they use your data. You should review their privacy policies to understand how they handle your data.
+
+But here is brief of how the providers handle your data:
+
+- Most of the providers is located in the United States, and they are subject to US laws.
+- Most of the providers do not train on your data, I already opted out training via API requests.
 
 TL:DR : You are not product.
 
@@ -93,3 +101,4 @@ STM(Short term memory) is per-user chat memory, which is very high volatile and 
 LTM(Long term memory) - We do not have plan to code this, as this is much more complicated and costly.
 
 Any concern about your data, or our providers, simply contact us : expurgation@duck.com
+However, if the concern is about providers, you should contact them directly. I can tell which provider is used for your request.
