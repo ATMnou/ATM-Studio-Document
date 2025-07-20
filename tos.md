@@ -33,4 +33,5 @@ You are:
 
 - We are NOT reading 250+ page of legal document. Rather than complying to this, we prefer to block UK users.
 - However, due we rely on discord to service and we ensure 'no track' policy, we don't know your location. Therefore it's impossible to do anything unless Discord makes simpler way to do.
-- Small tip : Commercial Models (GPT, Gemini, Claude, Inception) are self moderated and is basically safe.
+- Safety tip : Commercial Models (GPT, Gemini, Claude, Inception) are self moderated and is basically safe.
+- dLLM (ex : Mercury) is known to almost impossible to jailbreak.
