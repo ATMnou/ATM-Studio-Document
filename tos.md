@@ -28,3 +28,8 @@ You are:
 
 - Aggreeing to the terms of service if you use the software.
 - Responsible for your own actions.
+
+# UK ONLINE SAFETY ACT
+
+- Due we rely to discord to service and we simply don't track you, We don't know your location. Therefore it's impossible to do anything unless Discord make simpler way.
+- Small tip : Commerical Models (GPT, Gemini, Claude, Inception) are self moderated and is basically safe.
