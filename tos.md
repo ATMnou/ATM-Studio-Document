@@ -34,4 +34,4 @@ You are:
 - We are NOT reading 250+ page of legal document. Rather than complying to this, we prefer to block UK users.
 - However, due we rely on discord to service and we ensure 'no track' policy, we don't know your location. Therefore it's impossible to do anything unless Discord makes simpler way to do.
 - Safety tip : Commercial Models (GPT, Gemini, Claude, Inception) are self moderated and is basically safe.
-- UPDATE : None of my provider / Server is located in EU. They are from Korea / USA, and trump warned EU about this. Therefore, I can safely fuck this outageous law and keep my policy, I will take no action about this. They can't do anything to us.
+- UPDATE : None of my provider / Server is located in UK. They are from Korea / USA, and trump warned UK about the law. Therefore, I can safely ignore the outageous law and keep my policy, I will take no action about this. They can't do anything to us.
