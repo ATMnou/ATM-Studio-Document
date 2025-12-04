@@ -71,7 +71,7 @@ SECTION 11. CHANGES TO THIS PRIVACY POLICY
 
 We may update our Privacy Policy from time to time without notice. You can check the repository for the latest version of the Privacy Policy. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-SECTION 12. AI SERVICES
+SECTION 12. AI text Generation Services
 
 We use providers to use AI service, so Privacy Policy of providers applies.
 We use OpenRouter to automatically select best providers.
@@ -102,3 +102,12 @@ LTM(Long term memory) - We do not have plan to code this, as this is much more c
 
 Any concern about your data, or our providers, simply contact us : expurgation@duck.com
 However, if the concern is about providers, you should contact them directly. I can tell which provider is used for your request.
+
+SECTION 13. AI image generation services
+
+We currently use TAMS (Tensor Art Model Service) for AI image generation.
+You can check their privacy policy here: https://tensor.art/ko-KR/about/privacy-policy
+
+Since the provider is located in China, your data is handled according to Chinese laws. I send minimal data to the provider, only the image generation prompt and necessary metadata are sent. No personal identifying information is sent to the provider.
+
+We can't view or store your image generation prompts or generated images.
