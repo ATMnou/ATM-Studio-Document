@@ -74,31 +74,13 @@ We may update our Privacy Policy from time to time without notice. You can check
 SECTION 12. AI text Generation Services
 
 We use providers to use AI service, so Privacy Policy of providers applies.
-We use OpenRouter to automatically select best providers.
-This is possible providers but not limited to:
+Our AI system is BYOK per server, meaning each server owner inputs their own API key to use the AI service.
+We do store your API key in our SQL database. We do not share your API key with anyone else other than the AI service provider when you use the AI service.
+When you use the AI service, we send your prompt and necessary metadata to the provider to generate a response. We do not store your prompts or responses.
 
-- OpenAI (GPT)
-- Google AI Studio / Google Vertex (Gemini)
-- Anthropic (Claude)
-- Cohere (Command R)
-- Amazone (Amazone Nova)
-- Deepinfra (LLaMA,Deepseek, Etc.)
+We carefully select providers/routers that respect user privacy. We currently use the following providers/routers: OpenRouter, OpenAI, Claude.
 
-Most of these providers have their own privacy policies, and we do not control how they use your data. You should review their privacy policies to understand how they handle your data.
-
-But here is brief of how the providers handle your data:
-
-- Most of the providers is located in the United States, and they are subject to US laws.
-- Most of the providers do not train on your data, I already opted out training via API requests.
-
-TL:DR : You are not product.
-
-We opt out training via API requests, none of your data is being trained.
-We don't store any of your chat data in any permanent storage, nor view any of your message externally.
-
-STM(Short term memory) is per-user chat memory, which is very high volatile and stored in variable, not in any external storage. STM automatically clears after 30 minutes of inactivity, or anytime via command. STM in Direct message is isolated between all-server STM.
-
-LTM(Long term memory) - We do not have plan to code this, as this is much more complicated and costly.
+None of the providers/router should train their models using your data when you use our service, as we set the data collection option to "deny" when sending requests, and disallow providers which may train their models using user data.
 
 Any concern about your data, or our providers, simply contact us : expurgation@duck.com
 However, if the concern is about providers, you should contact them directly. I can tell which provider is used for your request.
