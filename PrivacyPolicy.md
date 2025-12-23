@@ -1,14 +1,6 @@
 # Privacy Policy
 
-..does I really need to write this?
-
-# TL;DR Version
-
-We only collect information from what discord.js provides us, and we only use it to provide the service. We do not sell your information to any third parties. Information we got is only used in a function and get cleaned by garbage collector after the function is done. We store User IDs and other information in SQL server if the function needs it. We may have /forgetme command to automatically delete your information from our database, otherwise you can always contact us to delete your information.
-
-and here startes the thing that no one reads duh
-
-# Full Version
+Note : whole documents are to rewriten at someday to be more professional.
 
 ATM Studio ("us", "we", or "our") operates the ATM Studio software application (the "Service"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
@@ -93,3 +85,4 @@ You can check their privacy policy here: https://tensor.art/ko-KR/about/privacy-
 Since the provider is located in China, your data is handled according to Chinese laws. I send minimal data to the provider, only the image generation prompt and necessary metadata are sent. No personal identifying information is sent to the provider.
 
 We can't view or store your image generation prompts or generated images.
+
