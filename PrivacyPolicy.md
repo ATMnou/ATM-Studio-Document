@@ -1,83 +1,46 @@
-# Privacy Policy
+NOTE : This document has been reconstructed in Korean to suit the main user base and does not provide a separate translated version.
 
-ATM Studio ("us", "we", or "our") operates the ATM Studio software application (the "Service"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
+## 개인정보처리방침
 
-We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
-
-It is our policy to respect your privacy regarding any information we may collect while operating our Service.
-
-TYPES OF DATA COLLECTED
-
-(a) We collect the following information about you:
-
-(i) Personal Information. This is information that directly or indirectly identifies you, such as your username, user ID or other identifying information about you, or information that would, when combined with other information you provide or that is broadly available, be likely to identify you.
-
-(b) You may choose not to supply Personal Information, however, your choice not to provide information may prevent you from using certain Resources or engaging in certain activities on the Services.
-
-SECTION 2. HOW WE COLLECT INFORMATION
-
-We collect Personal Information and Other Information in the following ways:
-
-(a) Information We Get from Your Use of Services. We may collect information about the Resources that you use and how you use them.
-
-SECTION 3. HOW WE USE INFORMATION WE COLLECT
-
-(a) We take your privacy seriously. We use the information that we collect about you to provide, maintain, protect, and improve the services and products that ATM Studio provides to you. We do not sell your information to any third parties and only use it for legitimate business purposes.
-
-(b) We use your Personal Information for the following purposes, or may use it for these purposes in the future:
-
-(i) Function of the Services. We use your Personal Information to provide you with the Services, to allow you to use the Services, and to improve the Services.
-
-SECTION 4. COOKIES AND OTHER TRACKING TECHNOLOGIES
-
-(a) We do not use cookies or other tracking technologies to collect information about you. 
-
-SECTION 5. HOW WE SHARE INFORMATION WE COLLECT
-
-(a) We do not share your Personal Information with third parties other than main function of our service.
-
-SECTION 6. HOW WE PROTECT YOUR INFORMATION
-
-(a) We take reasonable steps to protect your Personal Information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction.
-
-SECTION 7. ADVERTISEMENTS
-
-(a) We do not display automated advertisements in the Services. We do not use your Personal Information to display advertisements. 
-
-SECTION 8. CHILDREN
-
-The Services are not intended for use by children under the age of 13. We do not knowingly collect Personal Information from children under the age of 13.
-
-SECTION 9. INTERNATIONAL USERS
-
-Our Services are hosted in the South Korea. If you choose to use the Services from the European Union or other regions of the world with laws governing data collection and use that may differ from South Korean law, then please note that you are transferring your Personal Information outside of those regions to South Korea for storage and processing.
-
-SECTION 10. AI text Generation Services
-
-We use providers to use AI service, so Privacy Policy of providers applies.
-Our AI system is BYOK per server, meaning each server owner inputs their own API key to use the AI service.
-
-We do store your API key in our SQL database. We do not share your API key with anyone else other than the AI service provider when you use the AI service.
-When you use the AI service, we send your prompt and necessary metadata to the provider to generate a response. We do not store your prompts or responses.
-
-We carefully select providers/routers that respect user privacy. We currently whitelist the following providers/routers: OpenRouter, OpenAI, Claude.
-
-None of the providers/router should train their models using your data when you use our service, as we set the data collection option to "deny" when sending requests, and disallow providers which may train their models using user data.
-
-SECTION 11. AI image generation services
-
-We currently use TAMS (Tensor Art Model Service) for AI image generation.
-You can check their privacy policy here: https://tensor.art/ko-KR/about/privacy-policy
-
-Since the provider is located in China, your data is handled according to Chinese laws. I send minimal data to the provider, only the image generation prompt and necessary metadata are sent. No personal identifying information is sent to the provider.
-
-We can't view or store your image generation prompts or generated images.
-
-SECTION 12. CONTACT US
-
-If you have any specific questions about this Privacy Policy, you can contact:
-expurgation@duck.com
-
-SECTION 13. CHANGES TO THIS PRIVACY POLICY
-
-We may update our Privacy Policy from time to time without notice. You can check the repository for the latest version of the Privacy Policy. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+ATM Studio(이하 "당사")는 귀하의 개인정보 보호를 최우선으로 하며, ATM Studio 소프트웨어 애플리케이션(이하 "본 서비스") 운영과 관련하여 수집되는 개인정보의 처리 방식 및 관리 정책을 다음과 같이 명시합니다. 본 방침은 귀하의 개인정보가 어떠한 목적으로 활용되며, 당사가 이를 보호하기 위해 어떠한 조치를 취하고 있는지 알리는 데 목적이 있습니다.
+본 서비스를 이용함으로써 귀하는 본 방침에 따른 정보 수집 및 이용에 동의하는 것으로 간주됩니다.
+# 제1조. 수집하는 개인정보의 항목
+당사는 원활한 서비스 제공을 위해 다음과 같은 정보를 수집할 수 있습니다.
+ * 개인 식별 정보: 사용자 이름(Username), 사용자 고유 ID 등 직접적으로 개인을 식별할 수 있거나, 다른 정보와 결합하여 식별이 가능하게 하는 정보를 포함합니다.
+ * 선택적 제공: 귀하는 개인정보 제공을 거부할 권리가 있으나, 이 경우 서비스 내 특정 리소스 이용이나 활동 참여가 제한될 수 있습니다.
+# 제2조. 정보의 수집 방법
+당사는 다음과 같은 경로를 통해 정보를 수집합니다.
+ * 서비스 이용 기록: 서비스 내 리소스 사용 패턴 및 이용 방식에 관한 정보를 수집할 수 있습니다.
+# 제3조. 정보의 이용 목적
+수집된 정보는 다음의 목적을 위해 활용됩니다.
+ * 서비스 제공 및 개선: 서비스의 원활한 운영, 유지 관리, 보안 강화 및 품질 향상
+ * 영리 목적의 활용 금지: 당사는 귀하의 개인정보를 제3자에게 판매하지 않으며, 오직 정당한 비즈니스 목적을 위해서만 사용합니다.
+# 제4조. 쿠키 및 추적 기술
+당사는 사용자의 정보를 수집하기 위한 쿠키(Cookies) 또는 기타 추적 기술을 일절 사용하지 않습니다.
+# 제5조. 개인정보의 제3자 제공
+당사는 서비스의 핵심 기능을 수행하기 위한 경우를 제외하고, 귀하의 개인정보를 외부 제3자와 공유하지 않습니다.
+# 제6조. 개인정보 보호 조치
+당사는 개인정보의 분실, 도난, 유출, 변조 또는 훼손을 방지하기 위해 기술적·관리적 측면에서 합리적이고 적절한 보안 조치를 시행하고 있습니다.
+# 제7조. 광고 관련 정책
+당사는 서비스 내에서 자동화된 광고를 노출하지 않으며, 귀하의 개인정보를 광고 목적으로 활용하지 않습니다.
+# 제8조. 아동의 개인정보 보호
+본 서비스는 만 13세 미만 아동을 대상으로 하지 않습니다. 당사는 만 13세 미만 아동의 개인정보를 고의로 수집하지 않습니다.
+# 제9조. 국외 이전 및 보관
+본 서비스는 대한민국에서 호스팅됩니다. 대한민국 외 지역(EU 등)에서 서비스를 이용할 경우, 귀하의 정보가 수집 및 처리를 위해 대한민국으로 전송될 수 있음을 유의하시기 바랍니다.
+# 제10조. AI 텍스트 생성 서비스 이용
+당사는 AI 서비스 제공을 위해 외부 업체의 API를 활용하며, 이에 따라 해당 업체의 개인정보 처리방침이 적용됩니다.
+ * BYOK(Bring Your Own Key) 방식: 서버 운영자가 직접 본인의 API 키를 입력하여 작동하는 방식을 취합니다.
+ * API 키 관리: 입력된 API 키는 당사의 SQL 데이터베이스에 저장되나, 서비스 제공을 위한 호출 목적 외에 누구와도 공유되지 않습니다.
+ * 프롬프트 보호: 응답 생성을 위해 프롬프트와 메타데이터가 공급자에게 전송되나, 당사는 전송된 프롬프트나 결과값을 별도로 저장하지 않습니다.
+ * 지원 제공자: 현재 OpenRouter, OpenAI, Claude를 화이트리스트로 관리하며, 데이터 학습 옵션을 "거부(Deny)"로 설정하여 귀하의 데이터가 모델 학습에 활용되지 않도록 조치하고 있습니다.
+# 제11조. AI 이미지 생성 서비스 이용
+당사는 TAMS(Tensor Art Model Service)를 통해 이미지 생성 기능을 제공합니다.
+ * 데이터 처리: 해당 제공자는 중국에 소재하고 있어 관련 법령을 따릅니다.
+ * 최소화 원칙: 개인 식별 정보는 전송하지 않으며, 이미지 생성을 위한 프롬프트와 필수 메타데이터만을 전송합니다.
+ * 열람 제한: 당사는 귀하가 생성한 이미지나 입력한 프롬프트를 열람하거나 저장할 수 없습니다.
+제12조. 문의처
+본 방침과 관련하여 문의 사항이 있으신 경우 아래의 연락처로 문의해 주시기 바랍니다.
+ * 이메일: expurgation@duck.com
+# 제13조. 정책 변경 안내
+본 개인정보 처리방침은 별도의 사전 고지 없이 업데이트될 수 있습니다. 최신 버전은 저장소(Repository)를 통해 확인할 수 있으며, 변경 사항은 게시되는 즉시 효력이 발생합니다.
+추가로 필요하신 법적 고지 사항이나 강조하고 싶은 운영 정책이 있다면 말씀해 주세요. 수정을 도와드리겠습니다.
